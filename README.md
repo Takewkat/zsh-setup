@@ -1,6 +1,6 @@
 # ZSH Setup
 
-My zsh configuration for syncing across MacBooks
+My zsh configuration for syncing across MacBooks, first step in the termnial chad roadmap
 
 ## Quick Setup on New MacBook
 
