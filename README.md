@@ -11,4 +11,6 @@ My zsh configuration for syncing across MacBooks, first step in the termnial cha
 Great! 🎉
 
 2. **brew list**
+   ```
    tmux stow zsh fzf git htop neofetch kubie k9s curl awscli kubernetes-cli helm jq coreutils pyenv pipx fnm
+   ```
